@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahariar Ahmad</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh (Asia)</h3>
 
-- 🔭 I’m currently working on **DCMS**
+- 🔭 I’m currently working on **School Management Software**
 
 - 🌱 I’m currently learning **lot's of things.**
 
