@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahariar Ahmad</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh (Asia)</h3>
 
-- 🔭 I’m currently working on **School Management Software**
+- 🔭 I’m currently an expirenced **Fullstack Laravel Developer**
 
-- 🌱 I’m currently learning **lot's of things.**
+- 🌱 I’m currently learning **ASP .NET CORE**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
